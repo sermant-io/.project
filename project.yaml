@@ -27,7 +27,7 @@ repositories:
 
 website: "https://sermant.io/"
 
-artwork: "https://landscape.cncf.io/logos/sermant.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/sermant"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
